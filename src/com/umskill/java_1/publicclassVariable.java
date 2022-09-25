@@ -5,7 +5,7 @@ public class publicclassVariable {
 // variable in java	
 
 
-  public String country = "USA";                // Instance OR global variable - Variable declared in class lavel, outside method
+  public String country = "BANGLADESH";                // Instance OR global variable - Variable declared in class lavel, outside method
 
   public static  String region = "America";    // static variable - variable belong to class and don't required creating object
 
