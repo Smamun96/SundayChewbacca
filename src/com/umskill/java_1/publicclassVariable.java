@@ -11,7 +11,7 @@ public class publicclassVariable {
 
   public static void main(String[]args ) {
 	
-  String city = "nyc";                    	//local variable - variable declared in method
+  String city = "Bafalo";                    	//local variable - variable declared in method
 	
 	
 }
