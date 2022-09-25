@@ -5,7 +5,7 @@ public class AccessModifer {
 // Different Access Modifiers in Java
 	
 	
-	public String name = "Rasel";   // public - any class can access
+	public String name = "Mamun";   // public - any class can access
 	
 	
 	private int age = 30;           // private - only class can access
@@ -16,5 +16,5 @@ public class AccessModifer {
 	String  city = "new york";      // default - classes in same package can access
 
 	
-
+//
 }
